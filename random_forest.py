@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 st.set_page_config(page_title="Water Potability", layout="centered")
-st.title("Water Potability")
+st.title("Water Potability Model by Rida Mahmood")
 st.write(
     "Input water metrics to evaluate if a specific source is safe or unsafe for human consumption "
     "using Random Forest Classifier model."
